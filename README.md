@@ -1,2 +1,2 @@
-# link-logo
-Logo for Link Blockchain.
+# mix-logo
+Logo for MIX Blockchain.
