@@ -1,2 +1,2 @@
-# mix-logo
-Logo for MIX Blockchain.
+# acuity-logo
+Logo for Acuity Social.
